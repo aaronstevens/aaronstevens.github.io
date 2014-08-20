@@ -1,6 +1,6 @@
 # Site settings
-title: Bitch Please
-email: 
+title: John Doge
+email: ""
 description: > # this means to ignore newlines until "baseurl:"
   Blog, CV stuff, to be decided!
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -11,3 +11,6 @@ github_username:  aaronstevens
 # Build settings
 markdown: kramdown
 highlighter: pygments
+paginate: 10
+permalink: pretty
+encoding: utf-8
