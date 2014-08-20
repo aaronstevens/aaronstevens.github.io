@@ -1,6 +1,6 @@
 # Site settings
 title: Bitch Please
-email: contact at aaronstevens.co.uk
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Blog, CV stuff, to be decided!
 baseurl: "" # the subpath of your site, e.g. /blog/
