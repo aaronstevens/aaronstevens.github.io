@@ -1,4 +1,4 @@
 aaronstevens.github.io
 ======================
 
-Bitch Work.
+Bitch, work.
