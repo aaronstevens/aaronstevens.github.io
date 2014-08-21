@@ -1,4 +1,4 @@
 aaronstevens.github.io
 ======================
 
-Bitch, work.
+Jekyll Blog. Nothing else to see here.
