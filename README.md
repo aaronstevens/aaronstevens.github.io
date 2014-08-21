@@ -1,4 +1,4 @@
 aaronstevens.github.io
 ======================
 
-Jekyll Blog. Nothing else to see here!
+Jekyll Blog. Nothing else to see here.
