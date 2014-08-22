@@ -1,16 +1,24 @@
-# Site settings
-title: Aaron Stevens
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Blog, CV stuff, to be decided!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "aaronstevens.co.uk" # the base hostname & protocol for your site
-twitter_username: aaronstevens_
-github_username:  aaronstevens
-
-# Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: pretty
-paginate: 10
+paginate: 5
 encoding: utf-8
+
+# Setup
+title:            Aaron Stevens
+tagline:          'a blog'
+description:      a journal of Aaron Stevens' musings and insights of the I.T. world. Yes, I'm available for hire.
+
+# 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+
+url:              http://aaronstevens.co.uk
+
+author:
+  name:           'Aaron Stevens'
+  url:            https://twitter.com/aaronstevens_
+
+github:
+repo: https://github.com/aaronstevens
+
+gems:
+  - jekyll-mentions
