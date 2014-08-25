@@ -52,6 +52,13 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
+
+.normaltext {
+font-family: "PT Sans", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.5;
+}
+
 @media (min-width: 38rem) {
   html {
     font-size: 20px;
@@ -209,7 +216,7 @@ img {
 /* Tables */
 table {
   margin-bottom: 1rem;
-  width: 100%;
+  width: 375px;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
 }
