@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More site refinements"
+title: "More site updates"
 date: "2014-08-25"
 ---
 

@@ -33,7 +33,6 @@ Dislikes:
 
 * Programming
 * Graphic Design
-* Windows 8
 * Social Media
 * Marmite
 
