@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current & Past Projects
+title: Projects
 permalink: current-and-past-projects/
 ---
 
