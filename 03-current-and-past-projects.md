@@ -30,7 +30,7 @@ I also had the idea of using it as a NAS of sorts, so I added a 2TB drive in the
 
 ### IPCop - Linux Firewall
 
-In 2003 I wanted to get away from the annoyance of software firewalls. I was still on 56K while everyone else was in the fast lane, plus there was no 56K routers back in the day.
+In 2003 I wanted to get away from the annoyance of software firewalls. I was still on a dial-up Internet connection while everyone else was in the fast lane, plus there was no dial-up routers back in the day (at least I don't think so).
 
 I dusted off my old Intel Pentium 166, and installed [IPCop](http://www.ipcop.org) - a Linux firewall distribution. Once done the monitor and keyboard was unplugged and left to run in a corner of my room. One of the greatest benefits of IPCop was how effective the Squid web caching was, which was a great help to have when you only had 56K connectivity.
 
