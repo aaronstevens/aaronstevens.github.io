@@ -6,7 +6,9 @@ permalink: about/
 
 ![Aaron](/assets/aaron.jpg "This is Aaron!")
 
-Hey there! I'm Aaron Stevens, a 31 year old I.T. technician who currently volunteers at [Computers for Charities](http://www.computersforcharities.org) based in Hailsham, East Sussex. My role there involves troubleshooting and refurbishing used systems donated in by businesses & universities. The process involves securely wiping hard drives and installing a fresh copy of either Windows XP or 7, drivers, requested software, and then lastly cleaned up. These machines are then sent out to other charities and churches in the UK, and even in bulk to nations in Africa.
+Hey there! I'm Aaron Stevens, a 31 year old I.T. technician who used to volunteer at [Computers for Charities](http://www.computersforcharities.org) based in Hailsham, East Sussex. My role there involved troubleshooting and refurbishing used systems donated in by businesses & universities. The process involves securely wiping hard drives and installing a fresh copy of either Windows XP or 7, drivers, requested software, and then lastly cleaned up. These machines are then sent out to other charities and churches in the UK, and even in bulk to nations in Africa.
+
+I have just recently moved to Portsmouth to see what new opportunities await me there.
 
 ----
 

@@ -27,9 +27,9 @@ I am an energetic and enthusiastic person who enjoys a challenge and achieving p
 ### Work Experience
 
 Computers for Charities, Hailsham, E. Sussex.  
-November 2012 – current
+November 2012 – October 2014
 
-I voluntarily work at Computers for Charities three times a week refurbishing computers and laptops disposed of by businesses and Universities for resale. Tasks involve secure wiping of hard drives and installation of the operating system, drivers, requested software, and cleaning of components and computer peripherals - replacing any if faulty. Other computers considered too slow for use are dismantled, and parts recycled for metal, or shredded.
+I voluntarily worked at Computers for Charities three times a week refurbishing computers and laptops disposed of by businesses and Universities for resale. Tasks involved secure wiping of hard drives and installation of the operating system, drivers, requested software, and cleaning of components and computer peripherals - replacing any if faulty. Other computers considered too slow for use are dismantled, and parts recycled for metal, or shredded.
 
 ---
 
