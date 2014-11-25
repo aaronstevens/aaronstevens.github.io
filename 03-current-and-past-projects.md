@@ -4,7 +4,7 @@ title: Projects
 permalink: current-and-past-projects/
 ---
 
-Here you can find a few projects I've done, mainly as a hobby or when I needed something to work in a certain way.
+Here you can find a few projects I've done (in chronological order), mainly as a hobby or when I needed something to work in a certain way.
 
 ### This Jekyll Blog!
 
@@ -20,11 +20,11 @@ So far it's pretty fun to work on, and I'm impressed by how it works especially 
 
 ### Home Theater PC
 
-In 2011, I set out to spec and build a cost-effective system for watching media with hardware acceleration. My previous setup involved using a 10m HDMI cable from the PC to TV and extending the displays, but this wasn't very convenient as I always had to get out of the sofa to access the keyboard on the PC to pause/rewind or adjust subtitle sync.
+In 2011, I set out to spec and build a cost-effective system for watching media using hardware acceleration. My previous setup involved using a 10m HDMI cable from the PC to the television and extending the displays, but this wasn't very convenient as I always had to get out of the sofa to access the keyboard on the PC to pause/rewind or adjust subtitle sync.
 
 I initally planned on an Intel Sandy Bridge i3 build and making use of the onboard HD graphics which would have been sufficient for 1080p playback, but I later added a discrete graphics card due to an unfixable 24hz refresh rate bug on the Sandy Bridge architecture - which was causing a slight playback hitch every ~50 seconds on 23.976fps content.
 
-I also had the idea of using it as a NAS of sorts, so I added a 2TB drive in there and had SyncBack mirror the latest changes from my PC daily at 6pm over a gigabit link. It's always a good idea to have a backup!
+I also had the idea of using it as a backup location, so I added a 2TB drive in there and had SyncBack mirror the latest changes from my PC daily at 6pm over a gigabit link. It's always a good idea to have a backup!
 
 ---
 
@@ -32,17 +32,17 @@ I also had the idea of using it as a NAS of sorts, so I added a 2TB drive in the
 
 In 2003 I wanted to get away from the annoyance of software firewalls. I was still on a dial-up Internet connection while everyone else was in the fast lane, plus there was no dial-up routers back in the day (at least I don't think so).
 
-I dusted off my old Intel Pentium 166, and installed [IPCop](http://www.ipcop.org) - a Linux firewall distribution. Once done the monitor and keyboard was unplugged and left to run in a corner of my room. One of the greatest benefits of IPCop was how effective the Squid web caching was, which was a great help to have when you only had 56K connectivity.
+I dusted off my old Intel Pentium 166, and installed [IPCop](http://www.ipcop.org) - a headless Linux firewall distribution. Once done the monitor and keyboard was unplugged and left to run in a corner of my room. One of the greatest benefits of IPCop was how effective the Squid web caching was, which was a great help to have when you only had 56K connectivity.
 
 By 2004 ADSL became available at my exchange and I decided to continue using IPCop. Branded hardware routers were still incredibly bad from what I heard - crashing and locking up, so I didn't want that. I went to purchase an external ADSL ethernet modem and installed an additional NIC in the IPCop box for the modem to connect to.
 
-This carried on well until 2007, at which point hardware routers were now becoming decent. I switched over to a Netgear DG834G to save on running electricity costs and gain the use of Wi-Fi. I still miss IPCop to this day - it was extremely configurable and fun to use.
+This carried on well until 2007, at which point hardware routers were becoming decent. I switched over to a Netgear DG834G to save on running electricity costs and gain the use of Wi-Fi. I still miss IPCop to this day - it was extremely configurable and fun to use.
 
 ---
 
 ### MSFN
 
-I created [MSFN.org](http://www.msfn.org) (Microsoft Software Forum Network) in 2001 as a non-profit website to publish Microsoft news and be involved in an active community helping out with forum users’ Windows issues. The website rose to its peak in 2003 when I wrote simple guides aimed at the end-user for the first time on how to create an unattended Windows XP deployment CD, with the latest hotfixes, custom tweaks, and additional software all installed automatically.
+I created [MSFN.org](http://www.msfn.org) (Microsoft Software Forum Network) in 2001 as a non-profit website to publish Microsoft news and be involved in an active community helping out with forum users’ Windows issues. The website rose to its peak in 2003 when I wrote simple guides aimed at the end-user for the first time on how to create an unattended Windows XP deployment CD, with the latest Service Pack and post-SP hotfixes slipstreamed, custom tweaks, and additional software all installed automatically.
 
 <a href="/assets/msfn.png" data-lightbox="MSFN" data-title="MSFN Unattended XP CD Guide"><img src="/assets/msfn_thumb.gif" alt="MSFN" title="MSFN Unattended XP CD Guide"></a>
 

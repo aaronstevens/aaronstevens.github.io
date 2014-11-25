@@ -17,10 +17,14 @@ I am an energetic and enthusiastic person who enjoys a challenge and achieving p
 
 ### Key Skills
 
-* Building, repairing, and maintenance of PCs
-* Wiping, installation and configuration of OS, drivers, and software
-* Diagnosing hardware / software faults
-* Basic networking, router, switch and DHCP setup
+*	System builder
+*	Repair and maintenance of computer systems
+*	Wiping, installation and configuration of OSes, drivers, and software
+*	Diagnosing hardware & software faults
+*	Scheduling of backups
+*	Basic command prompt / batch file scripting
+*	Basic networking - router, switching and DHCP setup
+
 
 ---
 
@@ -38,7 +42,7 @@ I voluntarily worked at Computers for Charities three times a week refurbishing 
 WAMITAB / Computers for Charities  
 11 June 2014:
 
-* __WAMITAB Level 1 Diploma in Recycling Activities (Waste Electrical and Electronic Equipment) - VQ and Certificate of Compentence__
+* __WAMITAB Level 1 Diploma in Recycling Activities (Waste Electrical and Electronic Equipment, and Computer Refurbishment)__
 
 
 McCrudden Training Ltd  
@@ -62,6 +66,6 @@ Ovingdean Hall School, Brighton, E. Sussex.
 
 ### Additional Skills / Attributes
 
-According to my school and work experience reports I’m told I am very punctual, well dressed, and have excellent attendance with no unauthorised absences. I am well motivated and committed to completing the tasks given, and not afraid to ask for assistance if unsure about anything.
+According to my school and work experience reports I’m told I am very punctual, well dressed, and have excellent attendance with no unauthorised absences. I am well motivated and committed to completing the tasks given, and not afraid to ask for assistance if unsure about anything. I also have a fully clean driving license, and completed an Emergency First Aid at Work course.
 
 ---

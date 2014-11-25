@@ -16,15 +16,15 @@ I have just recently moved to Portsmouth to see what new opportunities await me 
 
 I have a personal interest in computer technology and keep up with current developments. I also enjoy building and maintaining all my computer devices at home, keeping them optimized and performing well, and at the same time resolving almost all issues that come up.
 
-I also have a love for Android devices, rooting and flashing custom ROMs, and as well as optimized kernels as I never like to be restricted from modifying any aspect of it.
+I also have a love for Android devices, rooting and flashing custom ROMs, as well as optimized kernels as I never like to be restricted from modifying any aspect of it.
 
-At other times I could be watching a favourite TV series (nothing's topped Breaking Bad yet!), playing games, and reading fiction, conspiracy theories, or Christian theology.
+At other times I could be watching a TV series (nothing's topped Breaking Bad yet!), playing video games, and reading fiction, conspiracy theories, or Christian theology.
 
 ----
 
 Likes:
 
-* Movies & TV Series (who doesn't?)
+* Movies & TV Series
 * Computer Gaming
 * System Building / Tweaking / Maintenance
 * All things Android
@@ -33,7 +33,7 @@ Likes:
 
 Dislikes:
 
-* Programming
+* Software programming
 * Graphic Design
 * Social Media
 * Marmite
