@@ -8,7 +8,7 @@ Here you can find a few projects I've done (in chronological order), mainly as a
 
 ### This Jekyll Blog!
 
-After some badgering from @j-mes and @virtuosus I got around to creating a Github account to host a Jekyll blog system. Which is, to [quote](http://jekyllrb.com/docs/home/):
+I got around to creating a Github account to host a Jekyll blog system. Which is, to [quote](http://jekyllrb.com/docs/home/):
 
 >_"Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through Markdown (or Textile) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server."_
 
