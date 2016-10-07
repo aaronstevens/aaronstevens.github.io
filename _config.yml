@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 5
 encoding: utf-8
@@ -22,3 +22,4 @@ repo: https://github.com/aaronstevens
 
 gems:
   - jekyll-mentions
+  - jekyll-paginate

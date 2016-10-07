@@ -19,7 +19,7 @@ I am an energetic and enthusiastic person who enjoys a challenge and achieving p
 
 *	System builder
 *	Repair and maintenance of computer systems
-*	Wiping, installation and configuration of OSes, drivers, and software
+*	Wiping, installation and configuration of Operating Systems, drivers, and software
 *	Diagnosing hardware & software faults
 *	Scheduling of backups
 *	Basic command prompt / batch file scripting
@@ -38,6 +38,10 @@ I voluntarily worked at Computers for Charities three times a week refurbishing 
 ---
 
 ### Education
+
+August 2016:
+
+* __Currently studying towards both Comptia A+ 220-901 & 220-902 certifications__
 
 WAMITAB / Computers for Charities  
 11 June 2014:
