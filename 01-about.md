@@ -12,11 +12,11 @@ Hey there! I'm Aaron Stevens, a 33 year old I.T. technician who used to voluntee
 
 ## Pastimes
 
-I have a personal interest in computer technology and keep up with current developments. I also enjoy building and maintaining all my computer devices at home, keeping them optimized and performing well, and at the same time resolving almost all issues that come up.
+I have a personal interest in computer technology and like to keep up with current developments. I also enjoy building and maintaining all my computer devices at home, keeping them optimized and performing well, and at the same time resolving almost all issues that come up.
 
-I also have a love for Android devices, rooting and flashing custom ROMs, as well as optimized kernels as I never like to be restricted from modifying any aspect of it.
+I also have a love for Android devices, rooting and flashing custom ROMs, as well as optimized kernels, as I never like to be restricted from modifying any aspect of it.
 
-At other times I could be watching a TV series (nothing's topped Breaking Bad yet!), playing video games, and reading fiction, conspiracy theories, or Christian theology.
+At other times I could be watching a TV series, playing video games, and reading fiction, conspiracy theories, or Christian theology.
 
 ----
 
@@ -33,7 +33,7 @@ Dislikes:
 
 * Software programming
 * Graphic Design
-* Social Media
+* Social Media (personal use)
 * Marmite
 
 ---

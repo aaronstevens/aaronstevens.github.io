@@ -41,7 +41,7 @@ I voluntarily worked at Computers for Charities three times a week refurbishing 
 
 August 2016:
 
-* __Currently studying towards both Comptia A+ 220-901 & 220-902 certifications__
+* __Currently studying towards both Comptia A+ 220-901 & 220-902 Certifications__
 
 WAMITAB / Computers for Charities  
 11 June 2014:
