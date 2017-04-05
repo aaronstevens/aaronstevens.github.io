@@ -1,3 +1,9 @@
+---
+layout: page
+title: Geeky Stuff
+permalink: 
+---
+
 ### My Setup!
 
 Here you can find a full list of what I use in the home, all custom built. I made this as a reference as I tend to forget what parts I've used!
