@@ -41,7 +41,7 @@ I voluntarily worked at Computers for Charities three times a week refurbishing 
 
 2017:
 
-* __Comptia A+ Certified__
+* __CompTIA A+ Certified (220-901 & 220-902)__
 
 WAMITAB / Computers for Charities  
 2014:
@@ -58,7 +58,7 @@ Brighton and Hove City College, Brighton, E. Sussex.
 2000 - 2002:
 
 * __CLAIT Stages I and II__
-* __Double VCE A-Levels in Information & Communications Technology, BC grade__
+* __Double VCE A-Levels in Information & Communications Technology__
 
 Ovingdean Hall School, Brighton, E. Sussex.  
 1996 – 2000:
