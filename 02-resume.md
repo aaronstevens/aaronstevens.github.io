@@ -39,18 +39,18 @@ I voluntarily worked at Computers for Charities three times a week refurbishing 
 
 ### Education
 
-August 2016:
+2017:
 
-* __Currently studying towards both Comptia A+ 220-901 & 220-902 Certifications__
+* __Comptia A+ Certified__
 
 WAMITAB / Computers for Charities  
-11 June 2014:
+2014:
 
 * __WAMITAB Level 1 Diploma in Recycling Activities (Waste Electrical and Electronic Equipment, and Computer Refurbishment)__
 
 
 McCrudden Training Ltd  
-30 May 2014:
+2014:
 
 * __Emergency First Aid at Work Certificate__
 
